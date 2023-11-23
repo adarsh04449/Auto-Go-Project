@@ -92,5 +92,5 @@ The following improvements below will make AutoGo more accurate to existing car 
 To contribute to this project, simply clone the repository and make changes to the code. Make sure to add a commit summary and description for every change made.
 
 ### Contact
-Ayush Shresth: https://github.com/ayushshresth021
+Adarsh Shresth: https://github.com/adarsh04449
 
